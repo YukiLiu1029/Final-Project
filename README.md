@@ -7,6 +7,3 @@ If you are interested in replicating our project, please take a look at this lin
 
 In this repository, we have uploaded the csv file of our dataset, the architecture of the functions we have used, the jupyter notebook for the comprehensive data analysis and visualization are all uploaded here. If are you interested in learning more about our data input, we have attached a link to the google drive where you can check out our pictures. https://drive.google.com/drive/folders/1D2B-sbmlOIGCXP6gtHplSc9brGqKv9Nw?usp=sharing
 
-
-Since the html file of our notebook is large, we have the link to open it here: file:///Users/liuyuke/Desktop/QTM_350_Final_Project.html
-
