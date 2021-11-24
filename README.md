@@ -7,3 +7,6 @@ If you are interested in replicating our project, please take a look at this lin
 
 In this repository, we have uploaded the csv file of our dataset, the architecture of the functions we have used, the jupyter notebook for the comprehensive data analysis and visualization are all uploaded here. If are you interested in learning more about our data input, we have attached a link to the google drive where you can check out our pictures. https://drive.google.com/drive/folders/1D2B-sbmlOIGCXP6gtHplSc9brGqKv9Nw?usp=sharing
 
+Because the size of our blog is too large, it can only show the "raw" here in the repository. Therefore, we have included another link to the html file in the google drive: https://drive.google.com/drive/folders/15OEQbAU4-mFISKtHxsy6z-Ti8WX5_4_E?usp=sharing . Please download the html file from the drive and then open it on a new page. 
+
+
